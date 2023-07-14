@@ -1,3 +1,3 @@
 # SPI_Hierarchical_GAM
 
-Input data can be downloaded from server, but I can send it via e-mail.
+Input data (CRU, GridMet,NASPA,Miroc, MRI) can be downloaded from web page.
